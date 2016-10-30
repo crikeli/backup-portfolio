@@ -1,9 +1,5 @@
 # Build settings
 
-webrick:
-  headers:
-    Content-Security-Policy: script-src 'self' http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js; 
-
 markdown: kramdown
 permalink: pretty
 
