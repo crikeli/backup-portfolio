@@ -1,0 +1,17 @@
+# Layout settings
+
+animation: "bounceOut"
+
+# Images
+
+hero: "hero-bg.jpg"
+avatar: "kelz.jpg"
+
+# Colors
+
+accent: "#c99065"
+
+textColor: "#666"
+headlineColor: "#333"
+bgcolor: "#e5eaee"
+documentBackgroundColor: "#e5eaee"

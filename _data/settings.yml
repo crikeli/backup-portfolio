@@ -1,0 +1,54 @@
+#-------------------------------
+# General Site Settings
+
+title: Kelin Christi
+description: Thinker // Coder // Music Lover
+email: christik.dev@gmail.com
+
+# NOTE: The Logo and Background image are defined in the all.sass document.
+
+menu:
+- {name: About Me, url: '#about-me'}
+- {name: Work, url: '#work'}
+- {name: Contact, url: '#contact'}
+
+#-------------------------------
+
+# NOTE: The avatar is defined in the all.sass document.
+
+blurb: >
+  **I am a Full Stack Software Engineer** with high proficiencies in **Python** and **Javascript**. I also garner a genuine curiosity for research in [Deep Learning](https://github.com/crikeli/Weekly-Neural-Nets/blob/master/NeuralNetBasics.ipynb){:target="_blank"} and [Natural Language Processing](https://github.com/crikeli/natural-language-processing_basics){:target="_blank"}. I always welcome opportunities to learn more about emerging technologies and come up with novel applications that have a positive impact on our lives as a modern society.
+
+
+  I can on most days be found **coding**, **attending a concert**, **discovering new music**, watching **Futurama**, Drinking some fine **whiskey**, exploring gorgeous **Seattle**, indulging in some friendly **soccer** and generally trying to navigate through this thing we call ***life…***
+
+skills:
+- {name: Python, value: '8'}
+- {name: JavaScript, value: '8.5'}
+- {name: Node.JS, value: '8'}
+- {name: HTML + CSS, value: '9'}
+- {name: Data Science, value: '8'}
+- {name: Natural Language Processing, value: '7'}
+- {name: Communication, value: '9'}
+- {name: Willingness to Learn, value: '10'}
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: Zest JS, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Twitter Sentiment Analyser, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Zest iOS, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: Amazon-Alexa Flight Search App, folder: 'proj-4', file: 'work/proj-4.html'}
+
+# Contact Section
+
+social:
+- {icon: 'github', link: 'https://github.com/crikeli'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/kelinchristi/'}
+- {icon: 'twitter', link: 'https://twitter.com/kelinc11'}
+- {icon: 'soundcloud', link: 'https://www.soundcloud.com/kelin-christi'}
+- {icon: 'instagram', link: 'https://instagram.com/christi.kelin'}
+
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
