@@ -47,7 +47,11 @@ function workBelt() {
 function workLoad() {
 
   $.ajaxSetup({
-		cache: true
+		cache: true,
+		beforeSend: function(xhr) {
+        xhr.withCredentials = true;
+        xhr.setRequestHeader('Content-Security-Policy', 'connect-src *');
+    }
 		// headers: {'Content-Security-Policy': 'connect-src *'}
 	 });
 
