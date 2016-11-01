@@ -6,10 +6,9 @@ Zest iOS is the mobile implementation of the web-application. I worked with seve
 
 [GitHub Repo](https://github.com/crikeli/ZestiOS)
 
-![Zest iOS](assets/img/work/proj-3/img1.jpg)
-
-![Zest iOS](assets/img/work/proj-3/img2.jpg)
-![Zest iOS](assets/img/work/proj-3/img3.jpg)
-![Zest iOS](assets/img/work/proj-3/img4.jpg)
-![Zest iOS](assets/img/work/proj-3/img5.jpg)
-![Zest iOS](assets/img/work/proj-3/img6.jpg)
+![Zest iOS](/assets/img/work/proj-3/img1.jpg)
+![Zest iOS](/assets/img/work/proj-3/img2.jpg)
+![Zest iOS](/assets/img/work/proj-3/img3.jpg)
+![Zest iOS](/assets/img/work/proj-3/img4.jpg)
+![Zest iOS](/assets/img/work/proj-3/img5.jpg)
+![Zest iOS](/assets/img/work/proj-3/img6.jpg)

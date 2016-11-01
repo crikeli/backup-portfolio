@@ -6,5 +6,5 @@ I wrote this application as a research project at the University of Washington. 
 
 [GitHub Repo](https://github.com/crikeli/alexa-expedia)
 
-![Amazon-Alexa Flight Search App](assets/img/work/proj-4/img1.jpg)
-![Amazon-Alexa Flight Search App](assets/img/work/proj-4/img2.jpg)
+![Amazon-Alexa Flight Search App](/assets/img/work/proj-4/img1.jpg)
+![Amazon-Alexa Flight Search App](/assets/img/work/proj-4/img2.jpg)
