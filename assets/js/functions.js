@@ -47,8 +47,8 @@ function workBelt() {
 function workLoad() {
 
   $.ajaxSetup({
-		cache: true,
-		headers: {'Content-Security-Policy': 'connect-src *'}
+		cache: true
+		// headers: {'Content-Security-Policy': 'connect-src *'}
 	 });
 
   $('.thumb-container label').click(function() {
