@@ -60,9 +60,9 @@ function workLoad() {
         newTitle = $this.find('strong').text(),
         newFolder = $this.find('.thumb-unit').data('folder'),
         spinner = '<div class="loader">Loading...</div>',
-        newHTML = 'work/'+ newFolder;
+        url = $this.find('.thumb-unit').data('url');
 
-    $('.project-load').html(spinner).load(newHTML);
+    $('.project-load').html(spinner).load(url);
     $('.project-title').text(newTitle);
   });
 
