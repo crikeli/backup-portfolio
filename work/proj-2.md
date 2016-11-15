@@ -6,4 +6,4 @@ I wrote this application as a foray into Natural Language Processing and Data Sc
 
 ![Twitter Sentiment Analyser]({{ site.github.url }}/assets/img/work/proj-2/img1.jpg)
 
-- [GitHub Repo](https://github.com/crikeli/Sentiment_analyser)
+#### [GitHub Repository](https://github.com/crikeli/Sentiment_analyser){:target="_blank"}

@@ -4,7 +4,7 @@ title: Deep Learning for Urban Aerial Views
 
 ##### This project uses TensorFlow to classify aerial views of images using deep learning.
 
-The purpose of the project was to understand the workings and power of Google's [Inception Model](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html) whilst applying it to solve a real-world classification problem. Below, I discuss my methodology and results.
+The purpose of the project was to understand the workings and power of Google's [Inception Model](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html){:target="_blank"} whilst applying it to solve a real-world classification problem. Below, I discuss my methodology and results.
 
 ##### Step 1: Training the inception model on a dataset I prepared consisting on aerial pictures of 4 major US cities.
 
@@ -42,4 +42,4 @@ The purpose of the project was to understand the workings and power of Google's 
 ##### Step 3: Retrieved raw results.
 ![Deep Learning for Urban Aerial Views]({{ site.github.url }}/assets/img/work/proj-4/img2.jpg)
 
-- [GitHub Repo](https://github.com/crikeli/aerialView_Image_Classifier)
+#### [GitHub Repository](https://github.com/crikeli/aerialView_Image_Classifier){:target="_blank"}
