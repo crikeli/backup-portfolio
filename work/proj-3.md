@@ -3,7 +3,7 @@ title: Zest iOS
 ---
 ##### As part of the iOS course during my education at Coding Dojo, I designed and developed an iOS application that could potentially aid small restaurants in minimizing food wastage and increasing their customer base.
 
-Zest iOS is the mobile implementation of the web-application ZestJS. During the development of the app, I worked with several Apple frameworks like Map-Kit, Core-Location and Cocoapods whilst designing a pixel perfect UI. I also utilized the [Moltin API](https://moltin.com/){:targer="_blank"}(which is a back-end as a service that supports secure E-commerce). I have yet to develop an onboarding feature for the app, however, the majority of the application is developed and fully functional.
+Zest iOS is the mobile implementation of the web-application ZestJS. During the development of the app, I worked with several Apple frameworks like Map-Kit, Core-Location and Cocoapods whilst designing a pixel perfect UI. I also utilized the <a href="https://moltin.com/" target="_blank"> Moltin API </a> (which is a back-end as a service that supports secure E-commerce). I have yet to develop an onboarding feature for the app, however, the majority of the application is developed and fully functional.
 
 ##### Below are some screenshots of the application in action.
 
