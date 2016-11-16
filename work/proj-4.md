@@ -42,4 +42,4 @@ The purpose of the project was to understand the workings and power of Google's 
 ##### Step 3: Retrieved raw results.
 ![Deep Learning for Urban Aerial Views]({{ site.github.url }}/assets/img/work/proj-4/img2.jpg)
 
-#### [GitHub Repository](https://github.com/crikeli/aerialView_Image_Classifier){:target="_blank"}
+- [GitHub Repository](https://github.com/crikeli/aerialView_Image_Classifier){:target="_blank"}

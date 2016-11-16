@@ -14,4 +14,4 @@ Zest iOS is the mobile implementation of the web-application ZestJS. During the 
 ![Zest iOS]({{ site.github.url }}/assets/img/work/proj-3/img5.jpg)
 ![Zest iOS]({{ site.github.url }}/assets/img/work/proj-3/img6.jpg)
 
-#### [GitHub Repository](https://github.com/crikeli/ZestiOS){:target="_blank"}
+- [GitHub Repository](https://github.com/crikeli/ZestiOS){:target="_blank"}
