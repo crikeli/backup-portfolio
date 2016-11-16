@@ -2,7 +2,7 @@
 title: Deep Learning for Urban Aerial Views
 ---
 
-##### As a field I am very interested because of the potential involved in Deep-Learning, I undertook this project and use TensorFlow to classify aerial views of images using [Transfer Learning](http://cs231n.github.io/transfer-learning/){:target="_blank"}, which is a subfield of Deep-Learning.
+##### Deep Learning is a field I am very interested in because of the potential of meaningful impact involved. I undertook this project and used TensorFlow to classify aerial views of images using [Transfer Learning](http://cs231n.github.io/transfer-learning/){:target="_blank"}, which is a subfield of Deep-Learning.
 
 The purpose of the project was to understand the workings and power of Google's [Inception Model](https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html){:target="_blank"} whilst applying it to solve a real-world classification problem. Below, I discuss my methodology and results.
 
