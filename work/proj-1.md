@@ -7,10 +7,13 @@ Zest is an e-commerce web-application with methods to securely browse and purcha
 
 ##### Below are some screenshots of the application in action.
 
-![Zest JS]({{ site.github.url }}/assets/img/work/proj-1/img4.jpg){:target="_blank"}
-![Zest JS]({{ site.github.url }}/assets/img/work/proj-1/img1.jpg){:target="_blank"}
-![Zest JS]({{ site.github.url }}/assets/img/work/proj-1/img2.jpg){:target="_blank"}
-![Zest JS]({{ site.github.url }}/assets/img/work/proj-1/img3.jpg){:target="_blank"}
+![Zest JS]({{ site.github.url }}/assets/img/work/proj-1/img4.jpg)
+![Zest JS]({{ site.github.url }}/assets/img/work/proj-1/img1.jpg)
+![Zest JS]({{ site.github.url }}/assets/img/work/proj-1/img2.jpg)
+![Zest JS]({{ site.github.url }}/assets/img/work/proj-1/img3.jpg)
+![Zest JS]({{ site.github.url }}/assets/img/work/proj-1/img5.jpg)
+
+
+- [Live Site](https://zest.stamplayapp.com){:target="_blank"}
 
 - [GitHub Repository](https://github.com/crikeli/ZestJS){:target="_blank"}
-<!-- - [Live Site](https://zest.stamplayapp.com) -->
