@@ -7,9 +7,8 @@ I wrote the application as a foray into Natural Language Processing and Data Sci
 
 ##### Below is a screenshot of the application in action. (Reds are negative tweets, greens are positive and yellows are neutral)
 
+- [Live Site](https://salty-beach-83386.herokuapp.com/){:target="_blank"}
+
 ![Twitter Sentiment Analyser]({{ site.github.url }}/assets/img/work/proj-2/img1.jpg)
 
-
 - [GitHub Repository](https://github.com/crikeli/Sentiment_analyser){:target="_blank"}
-
-- [Live Site](https://salty-beach-83386.herokuapp.com/){:target="_blank"}
