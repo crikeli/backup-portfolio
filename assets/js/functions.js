@@ -5,10 +5,7 @@ $(function() {
 	clientStuff();
 
 	$("header h1").fitText(1, { minFontSize: '20px', maxFontSize: '72px' });
-	// $(".biglink").fitText(1, {minFontSize: '25px', maxFontSize: '60px'});
-	// $(".smallink").fitText(1, {minFontSize: '20px', maxFontSize: '40px'});
-	$(".biglink").fitText(0.8, {minFontSize: '40px', maxFontSize:'40px'});
-	$(".smallink").fitText(0.8, {minFontSize: '40px', maxFontSize:'40px'});
+	$(".biglink").fitText(1.5)
 
 	$('textarea').autosize();
 });
