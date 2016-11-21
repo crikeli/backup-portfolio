@@ -18,6 +18,8 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-location:before    { content: "\e947"; }
+.icon-feed:before        { content: "\e91d"; }
 .icon-twitter:before     { content: "\e602"; }
 .icon-facebook:before    { content: "\e603"; }
 .icon-github:before      { content: "\e600"; }
@@ -30,5 +32,3 @@
 .icon-behance:before     { content: "\e607"; }
 .icon-soundcloud:before  { content: "\e606"; }
 .icon-vine:before        { content: "\e60a"; }
-.icon-location:before    { content: "\e947"; }
-.icon-feed:before        { content: "\e91d"; }
