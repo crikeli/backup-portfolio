@@ -43,4 +43,3 @@ The purpose of the project was to understand the workings and power of Google's 
 ![Deep Learning for Urban Aerial Views]({{ site.github.url }}/assets/img/work/proj-4/img2.jpg)
 
 <a href="https://github.com/crikeli/aerialView_Image_Classifier" class="icon-github" style="font-size:22px" target="_blank"> Code </a>
-<link rel="stylesheet" href="https://i.icomoon.io/public/temp/ae02c83595/UntitledProject/style.css">
