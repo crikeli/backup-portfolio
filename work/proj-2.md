@@ -10,8 +10,6 @@ I wrote the application as a foray into Natural Language Processing and Data Sci
 
 ![Twitter Sentiment Analyser]({{ site.github.url }}/assets/img/work/proj-2/img1.jpg)
 
-<a href="https://salty-beach-83386.herokuapp.com/" class="icon-feed" style="font-size:22px" target="_blank"> Live-Site </a>
+<a href="https://salty-beach-83386.herokuapp.com/" style="font-size:22px" target="_blank"> Live-Site </a>
 
 <a href="https://github.com/crikeli/Sentiment_analyser" class="icon-github" style="font-size:22px" target="_blank"> Code </a>
-
-<link rel="stylesheet" href="https://i.icomoon.io/public/temp/ae02c83595/UntitledProject/style.css">
