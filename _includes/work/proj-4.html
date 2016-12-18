@@ -1,13 +1,39 @@
-<!-- <head>
-	<meta http-equiv="Content-Security-Policy" content="default-src 'self'">
-</head> -->
+<h5 id="deep-learning-is-a-field-i-am-very-interested-in-because-of-the-potential-of-meaningful-impact-involved-i-undertook-this-project-and-used-tensorflow-to-classify-aerial-views-of-images-using-transfer-learning-which-is-a-subfield-of-deep-learning">Deep Learning is a field I am very interested in because of the potential of meaningful impact involved. I undertook this project and used TensorFlow to classify aerial views of images using <a href="http://cs231n.github.io/transfer-learning/" target="_blank">Transfer Learning</a>, which is a subfield of Deep-Learning.</h5>
 
-<!-- <p style="color: #666">I wrote this application as a research project at the University of Washington. The purpose of development was to understand how a voice based user experience should be designed for a simple task such as checking prices for a flight and that involved a lot of trial and error. I leveraged NodeJS and in order to make flight search queries, the Expedia API was used. During the testing of the application, it resided in an AWS Lambda function.  </p>
+<p>The purpose of the project was to understand the workings and power of Google’s <a href="https://research.googleblog.com/2016/03/train-your-own-image-classifier-with.html" target="_blank">Inception Model</a> whilst applying it to solve a real-world classification problem. Below, I discuss my methodology and results.</p>
 
-<ul style="color:#ffffff">
-	<a href="https://github.com/crikeli/alexa-expedia" target="_blank"><li>Git Hub Repo</li></a>
-</ul>
+<h5 id="step-1-training-the-inception-model-on-a-dataset-i-prepared-consisting-on-aerial-pictures-of-4-major-us-cities">Step 1: Training the inception model on a dataset I prepared consisting on aerial pictures of 4 major US cities.</h5>
 
-<img src="{{ site.github.url }}/assets/img/work/proj-4/img1.jpg" alt="Amazon-Alexa Flight Search App" /> -->
+<h5 id="seattle">Seattle</h5>
+<p><img src="/assets/img/work/proj-4/img10.jpg" alt="Deep Learning for Urban Aerial Views" /></p>
 
-<link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
+<h5 id="san-francisco">San-Francisco</h5>
+<p><img src="/assets/img/work/proj-4/img9.jpg" alt="Deep Learning for Urban Aerial Views" /></p>
+
+<h5 id="new-york">New-York</h5>
+<p><img src="/assets/img/work/proj-4/img8.jpg" alt="Deep Learning for Urban Aerial Views" /></p>
+
+<h5 id="chicago">Chicago</h5>
+<p><img src="/assets/img/work/proj-4/img7.jpg" alt="Deep Learning for Urban Aerial Views" /></p>
+
+<h5 id="step-2-after-training-the-model-with-novel-images--i-obtained-a-test-data-accuracy-of-564">Step 2: After training the model with novel images , I obtained a test data accuracy of 56.4%</h5>
+<p><img src="/assets/img/work/proj-4/img1.jpg" alt="Deep Learning for Urban Aerial Views" /></p>
+
+<h5 id="upon-feeding-brand-new-test-images-of-each-city-to-the-network-the-network-predicted-the-correct-city-3-out-of-4-times-you-cannot-imagine-my-excitement">Upon feeding brand new test images of each city to the network, the network predicted the correct city 3 out of 4 times. (You cannot imagine my excitement!)</h5>
+
+<h5 id="the-network-predicted-seattle-incorrectly--145-confidence">The network predicted Seattle incorrectly (~ 14.5% confidence)</h5>
+<p><img src="/assets/img/work/proj-4/img3.jpg" alt="Deep Learning for Urban Aerial Views" /></p>
+
+<h5 id="the-network-predicted-san-francisco-correctly-91-confidence">The network predicted San-Francisco correctly (~91% confidence)</h5>
+<p><img src="/assets/img/work/proj-4/img4.jpg" alt="Deep Learning for Urban Aerial Views" /></p>
+
+<h5 id="the-network-predicted-new-york-correctly-88-confidence">The network predicted New-York correctly (~88% confidence)</h5>
+<p><img src="/assets/img/work/proj-4/img5.jpg" alt="Deep Learning for Urban Aerial Views" /></p>
+
+<h5 id="the-network-predicted-chicago-correctly-93-confidence">The network predicted Chicago correctly (~93% confidence)</h5>
+<p><img src="/assets/img/work/proj-4/img6.jpg" alt="Deep Learning for Urban Aerial Views" /></p>
+
+<h5 id="step-3-retrieved-raw-results">Step 3: Retrieved raw results.</h5>
+<p><img src="/assets/img/work/proj-4/img2.jpg" alt="Deep Learning for Urban Aerial Views" /></p>
+
+<p><a href="https://github.com/crikeli/aerialView_Image_Classifier" class="icon-github" style="font-size:22px" target="_blank"> Code </a></p>
