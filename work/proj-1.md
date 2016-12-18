@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Zest JS
 ---
 ##### I undertook this project as my very first full "end-to-end" project after I had just finished the MEAN(Mongo, Express, Angular, NodeJS) stack at Coding Dojo. I wanted to apply my newly learnt web development knowledge to create a practical, real-world application.
