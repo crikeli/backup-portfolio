@@ -30,7 +30,9 @@
         <div class="work-return">{% include icons/icon-back.html %}</div>
       </label>
       <h4 class="project-title"></h4>
-      <div class="project-load"></div>
+      <div class="project-load">
+        <link rel="stylesheet" href="{{ site.github.url }}/assets/css/style.css">
+      </div>
 
       <noscript>
         {% for project in site.data.settings.projects %}
@@ -46,5 +48,5 @@
     </div>
     </div>
   </div>
-  
+
 </section>
