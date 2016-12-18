@@ -18,3 +18,16 @@ Zest is an e-commerce web-application with methods to securely browse and purcha
 <a href="https://zest.stamplayapp.com" style="font-size:20px" target="_blank"> Live-Site </a>
 
 <a href="https://github.com/crikeli/ZestJS" class="icon-github" style="font-size:22px" target="_blank"> Code </a> -->
+
+---
+title: Typo International Design Talks Stuff
+---
+
+![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img1.jpg)
+
+TYPO: International Design Talks is an annual event held in Berlin, London, and San Francisco. This promotional project is developed to market the event for the designindustry. The use of patterns, sophisticated color scheme and typography are applied for the print and mobile application.
+
+![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img2.jpg)
+![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img3.jpg)
+![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img4.jpg)
+![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img5.jpg)
